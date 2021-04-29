@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on **projects at IPPON, open source projet pi-mage**
+- 🌱 I’m currently learning **things**
+- 👯 I’m looking to collaborate **as always**
+- 🤔 I’m looking for help with **things that i need help for**
+- 💬 Ask me about **things I know**
+- 📫 How to reach me: **with the tools that are at your disposal**
+- 😄 Pronouns: **wtf, je / tu / il / nous / vous / ils**
+- ⚡ Fun fact: **quicksort is not the quickest sorting algorithm**
 <!--
 **blackorbit1/blackorbit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
