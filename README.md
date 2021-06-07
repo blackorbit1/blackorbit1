@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with **things that i need help for**
 - 💬 Ask me about **things I know**
 - 📫 How to reach me: **with the tools that are at your disposal**
-- 😄 Pronouns: **wtf, je / tu / il / nous / vous / ils**
+- 😄 Pronouns: **je / tu / il / nous / vous / ils**
 - ⚡ Fun fact: **quicksort is not the quickest sorting algorithm**
 <!--
 **blackorbit1/blackorbit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
