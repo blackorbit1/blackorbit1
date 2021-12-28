@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![ColdIce's github stats](https://github-readme-stats.vercel.app/api?username=blackorbit1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackorbit1&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on **projects at IPPON, open source projet pi-mage**
 - 🌱 I’m currently learning **things**
@@ -7,6 +9,7 @@
 - 💬 Ask me about **things I know**
 - 📫 How to reach me: **with the tools that are at your disposal**
 - ⚡ Fun fact: **quicksort is not the quickest sorting algorithm**
+
 <!--
 **blackorbit1/blackorbit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
