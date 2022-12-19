@@ -1,7 +1,6 @@
 ### Hi there 👋
-[![ColdIce's github stats](https://github-readme-stats.vercel.app/api?username=blackorbit1)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on **projects at IPPON, open source projet pi-mage**
+- 🔭 I’m currently working on **stuff**
 - 🌱 I’m currently learning **things**
 - 👯 I’m looking to collaborate **as always**
 - 🤔 I’m looking for help with **things that i need help for**
